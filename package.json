@@ -1,7 +1,7 @@
 {
-    "name": "wh-mods-dev",
+    "name": "DENIS-BOT",
     "version": "3.0.0",
-    "description": "WhatsApp BOT By wahid",
+    "description": "WhatsApp BOT By Denis",
     "main": "index.js",
     "type": "module",
     "directories": {
