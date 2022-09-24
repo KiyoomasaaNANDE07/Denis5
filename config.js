@@ -32,24 +32,24 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/al_pakel'
 global.sgh = '-' //github
-global.sgc = 'https://chat.whatsapp.com/E1TElUfSJY63Cs9WqNjEEC' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/BSaG5BnyaGXH3Q08UPmVyZ' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCbI74T0AXUI26VC88NyoWdw' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '082171432358' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '082171432358' //telkomsel
-global.ppulsa2 = '081287142545' // kalau ada kartu lain isi aja
+global.pdana = '087793591508' //dana
+global.povo = '087793591508' //ovo
+global.pgopay = '087793591508' //gopay
+global.plinkaja = '087793591508' //link aja
+global.ppulsa = '087793591508' //telkomsel
+global.ppulsa2 = '08779e591508' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281287142545'
-global.nomorown = '6282171432358'
-global.namebot = 'MGBOTZ-MD'
-global.nameown = 'SUBSCRIBE CHANNEL ALEX PAKEL'
+global.nomorbot = '6285762077562'
+global.nomorown = '6288296831250'
+global.namebot = 'DENIS-BOT'
+global.nameown = 'OWNER DENIS'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,10 +58,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282171432358', 'MGBOTZ BY ALEX', true],
-  ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
+  ['6288296831250', 'DENIS BOT BY DENIS', true],
+  ['-', '6288296831250', true],
+  ['-', '6288296831250', true],
+  ['-', '6288296831250', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
